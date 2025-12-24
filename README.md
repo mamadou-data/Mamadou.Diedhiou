@@ -1,7 +1,3 @@
-# Mamadou DIEDHIOU  
-### Data Analyst | Chargé d’Études Statistiques  
-**Power BI • SQL • Python • Cloud (Azure & GCP)**
-
 Data Analyst spécialisé en **Business Intelligence**, **automatisation des analyses** et **modélisation statistique**, avec une forte capacité à transformer les données en **leviers de décision métier**.
 
 Après une alternance chez **AXA France** en tant que **Chargé d’Études Statistiques**, je suis ouvert aux opportunités **CDD / CDI – Data Analyst / BI Analyst / Chargé d’Études.**
