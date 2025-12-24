@@ -1,28 +1,27 @@
-# 👋 Mamadou DIEDHIOU  
+# Mamadou DIEDHIOU  
 ### Data Analyst | Chargé d’Études Statistiques  
 **Power BI • SQL • Python • Cloud (Azure & GCP)**
 
-🎯 Data Analyst spécialisé en **Business Intelligence**, **automatisation des analyses** et **modélisation statistique**, avec une forte capacité à transformer les données en **leviers de décision métier**.
+Data Analyst spécialisé en **Business Intelligence**, **automatisation des analyses** et **modélisation statistique**, avec une forte capacité à transformer les données en **leviers de décision métier**.
 
-Après une alternance chez **AXA France** en tant que **Chargé d’Études Statistiques**, je suis actuellement **à la recherche d’un poste en CDD ou CDI** (Data Analyst / BI Analyst / Chargé d’Études).
-
-📍 France  
+Après une alternance chez **AXA France** en tant que **Chargé d’Études Statistiques**, je suis ouvert aux opportunités **CDD / CDI – Data Analyst / BI Analyst / Chargé d’Études.**
 
 🎓 Master 2 – Innovation, Marché & Science des Données (Paris-Saclay)  
+🎓 Master 2 – Expertise Economique pour les Organisations Publiques et Privées (Lille)
 📊 Power BI Certified | Dataiku Advanced Designer  
 🎯 PL-300 (en cours)
 
 ---
 
-## 🧠 Compétences clés
+## Compétences clés
 
-### 📊 Business Intelligence & Data Visualisation
+### Business Intelligence & Data Visualisation
 - **Power BI (avancé)** : DAX, KPIs, modélisation étoile/flocon
 - Power BI Service (publication, partage, actualisation)
 - Tableaux de bord décisionnels (Finance, RH, CRM, Ventes)
 - Data storytelling & bonnes pratiques de visualisation
 
-### 🧮 Statistiques & Machine Learning
+### Statistiques & Machine Learning
 - Régression : Linéaire, Ridge, Lasso, XGBoost
 - Classification : Logistic Regression, Random Forest, XGBoost, LightGBM
 - Segmentation, scoring, churn prediction
@@ -113,13 +112,21 @@ Nettoyage, analyse exploratoire et visualisation
 
 ---
 
+## Ce que je peux apporter
+- Structuration et fiabilisation des données
+- Création de dashboards décisionnels orientés métier
+- Automatisation des reportings
+- Appui à la prise de décision stratégique
+
+---
+
 ## 📬 Me contacter
 - 💼 LinkedIn : https://www.linkedin.com/in/diedhiou/
 - 📧 Email : mdiedhio@gmail.com
 
 ---
 
-## ⭐ À propos de ce portfolio
+## À propos de ce portfolio
 Ce portfolio met en avant :
 - une **maîtrise complète de la chaîne Data**
 - une forte orientation **business & décision**
