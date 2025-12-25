@@ -1,19 +1,20 @@
-Data Analyst spécialisé en **Business Intelligence**, **automatisation des analyses** et **modélisation statistique**, avec une forte capacité à transformer les données en **leviers de décision métier**.
+Data Analyst spécialisé en Business Intelligence, automatisation des analyses et modélisation statistique, avec une forte capacité à transformer les données en leviers de décision métier.
 
-Après une alternance chez **AXA France** en tant que **Chargé d’Études Statistiques**, je suis ouvert aux opportunités **CDD / CDI – Data Analyst / BI Analyst / Chargé d’Études.**
+Après une alternance chez AXA France en tant que Chargé d’Études Statistiques, je suis ouvert aux opportunités CDD / CDI – Data Analyst / BI Analyst / Chargé d’Études.
 
-🎓 Master 2 – Innovation, Marché & Science des Données (Paris-Saclay)  
-🎓 Master 2 – Expertise Economique pour les Organisations Publiques et Privées (Lille)
+🎓 Master 2 – Innovation, Marché & Science des Données (Paris-Saclay) | 2024 - 2025
+🎓 Master 2 – Expertise Economique pour les Organisations Publiques et Privées (Lille) 2022 - 2024
+🎓 Licence 3 – Econométrie (Orléans) 2022 - 2023
 
 📊 Power BI Certified | Dataiku Advanced Designer  
 🎯 PL-300 (en cours)
 
 ---
 
-## Compétences clés
+# Compétences clés
 
 ### Business Intelligence & Data Visualisation
-- **Power BI (avancé)** : DAX, KPIs, modélisation étoile/flocon
+- Power BI (avancé) : DAX, KPIs, modélisation étoile/flocon
 - Power BI Service (publication, partage, actualisation)
 - Tableaux de bord décisionnels (Finance, RH, CRM, Ventes)
 - Data storytelling & bonnes pratiques de visualisation
@@ -25,24 +26,24 @@ Après une alternance chez **AXA France** en tant que **Chargé d’Études Stat
 - Évaluation : Accuracy, F1-score, ROC AUC, MAE, RMSE, R²
 
 ### 🗄️ Data Engineering & Automatisation
-- SQL : PostgreSQL, Azure SQL, BigQuery
-- Pipelines **ETL / ELT**
-- Python (pandas, numpy, scikit-learn)
-- Automatisation : VBA, SAS / WPS
-- Cloud : **Azure**, **Google Cloud Platform**
+- **SQL** : PostgreSQL, Azure SQL, BigQuery
+- **Pipelines** ETL / ELT
+- **Python** (pandas, numpy, scikit-learn)
+- **Automatisation** : VBA, SAS / WPS
+- **Cloud** : Azure, Google Cloud Platform
 
 ### 🛠️ Outils
 Power BI • Python • R • SAS • SQL • Git/GitHub • Streamlit • VS Code • Databricks • Dataiku
 
 ---
 
-## 💼 Expérience professionnelle
+# 💼 Expérience professionnelle
 
 ### **Chargé d’Études Statistiques – AXA France**  
 📅 Septembre 2024 – Septembre 2025  
 - Automatisation des processus analytiques (SAS/WPS, VBA)
 - Optimisation de traitements Excel (réduction significative des délais)
-- Conception de dashboards **Power BI** pour le suivi des aides aux agents généraux
+- Conception de dashboards Power BI pour le suivi des aides aux agents généraux
 - Appui à la prise de décision pour les équipes métiers
 
 ### **Chargé d’Études & Optimisation – AXA France**  
@@ -53,9 +54,9 @@ Power BI • Python • R • SAS • SQL • Git/GitHub • Streamlit • VS Co
 
 ---
 
-## Projets Data – GitHub
+# Projets Data – GitHub
 
-### 📦 **Sales Analytics – ETL & BI**
+## 📦 **Sales Analytics – ETL & BI**
 Pipeline ETL complet : ingestion → PostgreSQL → Power BI  
 Analyse de la performance commerciale et KPIs décisionnels  
 - 👉 **[Sales-Analytics-ETL](https://github.com/douboym/Sales-Analytics-ETL)**
@@ -63,14 +64,14 @@ Analyse de la performance commerciale et KPIs décisionnels
 
 ---
 
-### 📊 **Power BI – Dashboards & Cas pratiques**
+## 📊 **Power BI – Dashboards & Cas pratiques**
 Dashboards BI sur des cas Ventes, RH et CRM  
 DAX, modélisation avancée, Power BI Service  
 - 👉 **[Power-BI](https://github.com/douboym/Power-BI)** 
 
 ---
 
-### 📉 **Scoring & Prédiction du Risque**
+## 📉 **Scoring & Prédiction du Risque**
 Modèles de scoring et segmentation des profils assurés  
 Régression & classification supervisée  
 - 👉 **[Projet-Scoring](https://github.com/douboym/Projet-Scoring)**
@@ -78,7 +79,7 @@ Régression & classification supervisée
 
 ---
 
-### 📡 **Churn Prediction – Télécommunications**
+## 📡 **Churn Prediction – Télécommunications**
 Anticipation des départs clients  
 Machine Learning + évaluation complète  
 Déploiement via **Streamlit**  
@@ -86,25 +87,25 @@ Déploiement via **Streamlit**
 
 ---
 
-### 🌸 **Machine Learning & Streamlit**
+## 🌸 **Machine Learning & Streamlit**
 Application web interactive (Iris Dataset)  
 Classification et visualisation en temps réel  
 - 👉 **[iris-streamlit-app](https://github.com/douboym/iris-streamlit-app)**
 
 ---
 
-### 🌐 **Web Scraping & Analyse de données**
+## 🌐 **Web Scraping & Analyse de données**
 Collecte automatisée de données  
 Nettoyage, analyse exploratoire et visualisation  
 - 👉 **[projet-scraping](https://github.com/douboym/projet-scraping)**
 
 ---
 
-## 🎓 Certifications
-- ✅ **Data Analyst in Power BI** – DataCamp
+# 🎓 Certifications
+- ✅ **Data Analyst in Power BI** – **DataCamp**
 - ✅ **Dataiku Advanced Designer Certificate**
-- ✅ Microsoft Certified **Azure Fundamentals**
-- ✅ Certification **SAS – Programmation**
+- ✅ **Microsoft Certified Azure Fundamentals**
+- ✅ **Certification SAS – Programmation**
 - 🎯 **PL-300 (en cours)**
 
 ---
