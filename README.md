@@ -66,6 +66,17 @@ Analyse de la performance commerciale et KPIs décisionnels
 
 ---
 
+### 📊 Pipeline ELT & Machine Learning E-commerce (GCP)
+*Développement d’un pipeline ELT automatisé sur GCP (GCS, BigQuery, Airflow/Cloud Composer) avec intégration Machine Learning via BigQuery ML pour la prédiction de l’activité client.*
+- Pipeline ELT automatisé sur Google Cloud Platform
+- Orchestration avec Airflow (Cloud Composer)
+- Modélisation BigQuery + BigQuery ML
+- Prédiction de l’activité client (ROC AUC ≈ 0.88)
+
+- 👉 **[gcp-ecommerce-elt-ml](https://github.com/mamadou-data/gcp-ecommerce-elt-ml)**
+
+---
+
 ## 📊 **Projets Power BI – Dashboards & Cas pratiques**
 Dashboards BI sur des cas Ventes, RH et CRM  
 DAX, modélisation avancée, Power BI Service  
