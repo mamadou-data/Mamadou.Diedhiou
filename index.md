@@ -21,6 +21,20 @@ title: "Portfolio"
   </a>
 </p>
 
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/users/mamadoudiedhiou-1442/credentials/certification/data-analyst-associate?tab=credentials-tab" target="_blank">
+    <img src="img/badges/pl-300.png"
+         alt="Microsoft Certified: Power BI Data Analyst Associate (PL-300)"
+         height="90" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/d63b076f-1765-4b59-8bff-2f666a457e42/linked_in?t=sxum6j" target="_blank">
+    <img src="img/badges/azure-data-fundamentals.png"
+         alt="Microsoft Certified: Azure Data Fundamentals"
+         height="90" />
+  </a>
+</p>
+
 <h1 align="center">Mamadou DIEDHIOU</h1>
 
 <p align="center">
