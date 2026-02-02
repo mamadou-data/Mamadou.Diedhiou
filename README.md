@@ -1,12 +1,15 @@
-Data Analyst spécialisé en Business Intelligence, automatisation des analyses et modélisation statistique, avec une forte capacité à transformer les données en leviers de décision métier.
+Data Analyst / BI orienté décision métier.  
+Spécialisé en Power BI, automatisation analytique et modélisation statistique.  
+Habitué aux environnements corporate et aux projets data end-to-end.
 
-Après une alternance chez AXA France en tant que Chargé d’Études Statistiques, je suis ouvert aux opportunités CDD / CDI – Data Analyst / BI Analyst / Chargé d’Études.
+Après une alternance chez AXA France en tant que Chargé d’Études Statistiques,  
+je suis ouvert aux opportunités **CDD / CDI – Data Analyst / BI Analyst / Chargé d’Études**.
 
-🎓 Master 2 – Innovation, Marché & Science des Données (Paris-Saclay) - 2024/2025
+📌 Disponible immédiatement – France / Remote
 
-🎓 Master 2 – Expertise Economique pour les Organisations Publiques et Privées (Lille) - 2022/2024
-
-🎓 Licence 3 – Econométrie (Orléans) - 2022/2023
+🎓 Master 2 – Innovation, Marché & Science des Données (Paris-Saclay, Evry) – 2024/2025  
+🎓 Master 2 – Expertise Économique (Lille) – 2022/2024  
+🎓 Licence 3 – Économétrie (Orléans) – 2022/2023  
 
 ---
 
@@ -14,8 +17,8 @@ Après une alternance chez AXA France en tant que Chargé d’Études Statistiqu
 
 ### Business Intelligence & Data Visualisation
 - Power BI (avancé) : DAX, KPIs, modélisation étoile/flocon
-- Power BI Service (publication, partage, actualisation)
-- Tableaux de bord décisionnels (Finance, RH, CRM, Ventes)
+- Power BI Service : publication, sécurité, actualisation
+- Dashboards décisionnels (Finance, RH, CRM, Ventes)
 - Data storytelling & bonnes pratiques de visualisation
 
 ### Statistiques & Machine Learning
@@ -57,33 +60,16 @@ Power BI • Python • R • SAS • SQL • Git/GitHub • Streamlit • VS Co
 
 ## 📊 Retail Sales ETL & BI (MySQL / Power BI)
 
-*Projet end-to-end Data Analyst / BI : de la donnée brute à l’aide à la décision.*
-- Pipeline ETL en Python avec data profiling et règles de qualité
-- Données sources CSV → nettoyage, contrôles, rejets tracés
+Projet end-to-end Data Analyst / BI : de la donnée brute à l’aide à la décision.
+
+- Pipeline ETL en Python avec contrôles de qualité
 - Data Warehouse MySQL en schéma étoile
-- Dashboard Power BI interactif orienté pilotage métier
-- 
-🎯 **Objectif métier** : fournir des indicateurs fiables pour identifier les leviers de croissance et sécuriser la prise de décision.
+- Modélisation analytique pour Power BI
+- Dashboard interactif orienté pilotage métier
 
-👉 *[retail-sales-etl-bi](https://github.com/mamadou-data/retail-sales-etl-bi)*
+🎯 Objectif métier : identifier les leviers de croissance et fiabiliser la prise de décision.
 
-## 📦 **Sales Analytics – ETL & BI (PostgreSQL)**
-**Pipeline ETL orienté analyse de la performance commerciale.**
-- Ingestion et transformation des données de ventes
-- Stockage analytique dans PostgreSQL
-- Modélisation pour Power BI
-- Calcul et suivi de KPIs business
-
-- 👉 **[Sales-Analytics-ETL](https://github.com/mamadou-data/Sales-Analytics-ETL)**
-
-## 📦 ETL Sales Analysis – Data Warehouse & Reporting
-**Projet ETL axé sur la structuration analytique des données de ventes.**
-- Nettoyage et transformation des données
-- Modélisation en tables de faits et dimensions
-- Analyse décisionnelle sous Power BI
-- Focus sur la cohérence et la fiabilité des indicateurs
-- 👉 **[ETL-Sales-Analysis](https://github.com/mamadou-data/ETL-Sales-Analysis)** 
-
+- 👉 **[Retail Sales ETL-BI](https://github.com/mamadou-data/retail-sales-etl-bi)**
 ---
 
 ### 📊 Pipeline ELT & Machine Learning E-commerce (GCP)
