@@ -68,8 +68,8 @@ Projet end-to-end Data Analyst / BI : de la donnée brute à l’aide à la déc
 - Dashboard interactif orienté pilotage métier
 
 🎯 Objectif métier : identifier les leviers de croissance et fiabiliser la prise de décision.
-
 - 👉 **[Retail Sales ETL-BI](https://github.com/mamadou-data/retail-sales-etl-bi)**
+
 ---
 
 ### 📊 Pipeline ELT & Machine Learning E-commerce (GCP)
