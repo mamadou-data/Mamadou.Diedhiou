@@ -1,5 +1,4 @@
-Data Analyst / BI orienté décision métier.  
-Spécialisé en Power BI, automatisation analytique et modélisation statistique.  
+Data Analyst / BI orienté décision métier. Spécialisé en Power BI, automatisation analytique et modélisation statistique.  
 Habitué aux environnements corporate et aux projets data end-to-end.
 
 Après une alternance chez AXA France en tant que Chargé d’Études Statistiques,  
@@ -7,6 +6,8 @@ je suis ouvert aux opportunités **CDD / CDI – Data Analyst / BI Analyst / Cha
 
 📌 Disponible immédiatement – France / Remote
 
+---
+# Formations
 🎓 Master 2 – Innovation, Marché & Science des Données (Paris-Saclay, Evry) – 2024/2025  
 🎓 Master 2 – Expertise Économique (Lille) – 2022/2024  
 🎓 Licence 3 – Économétrie (Orléans) – 2022/2023  
@@ -173,12 +174,6 @@ Nettoyage, analyse exploratoire et visualisation
 - Création de dashboards décisionnels orientés métier
 - Automatisation des reportings
 - Appui à la prise de décision stratégique
-
----
-
-## 📬 Me contacter
-- 💼 [LinkedIn](https://www.linkedin.com/in/diedhiou/)
-- 📧 Email : mdiedhio@gmail.com
 
 ---
 
